@@ -1,0 +1,6 @@
+logistic_regression_model;0.1632685661315918
+knn_model;0.048404693603515625
+naive_bayes_model;0.06618332862854004
+decision_tree_model;0.4394080638885498
+random_forest_model;5.380722284317017
+svc_model;119.41166234016418
